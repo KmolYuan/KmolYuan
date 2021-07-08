@@ -8,7 +8,7 @@
 + Programming Languages
   + Rust (Currently focusing)
   + Python (PyQt, PyTorch, Cython)
-  + C/C++ (Usually be the backend of my works, start with C++11)
+  + C99^/C++11^ (Usually be the backend of my works)
   + Dear HTML / CSS / JavaScript (Website glue)
   + ShellScript (Cross platform available)
   + Matlab (Not very like to use...)
