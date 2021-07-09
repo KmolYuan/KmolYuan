@@ -19,7 +19,7 @@
 
 # Dashboard
 
-Powered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+Powered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
 
 ![](https://github-readme-stats.vercel.app/api?username=KmolYuan&show_icons=true&include_all_commits=true)
 
