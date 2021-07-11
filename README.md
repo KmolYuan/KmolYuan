@@ -27,4 +27,4 @@ Powered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/gith
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KmolYuan&langs_count=7&layout=compact)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@KmolYuan/3fa3ccf9-150d-493f-949e-13f360091276.png" width="50%"/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@KmolYuan/3fa3ccf9-150d-493f-949e-13f360091276.png" width="495"/></a>
