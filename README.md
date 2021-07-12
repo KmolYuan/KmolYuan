@@ -5,12 +5,12 @@
   + Planar Mechanism
   + Computer Vision
   + Mechine Learning
-+ Programming Languages
++ Programming Languages (Cross-platform)
   + Rust (Currently focusing)
   + Python (PyQt, PyTorch, Cython)
   + C99^/C++11^ (Usually be the backend of my works)
+  + ShellScript / Makefile / Batch file
   + Dear HTML / CSS / JavaScript (Website glue)
-  + ShellScript (Cross platform available)
   + Matlab (Not very like to use...)
   + Superficial cognition for:
     + Fortran
