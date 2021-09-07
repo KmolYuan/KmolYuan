@@ -27,4 +27,4 @@ Powered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/gith
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KmolYuan&langs_count=6&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api/wakatime?username=KmolYuan&layout=compact)
+![](https://github-readme-stats.vercel.app/api/wakatime?username=KmolYuan&langs_count=6&layout=compact)
