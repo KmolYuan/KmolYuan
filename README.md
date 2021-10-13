@@ -9,7 +9,7 @@
   + Rust (Currently focusing)
   + Python (PyQt, PyTorch, Cython)
   + C99^/C++11^ (Usually be the backend of my works)
-  + ShellScript / Makefile / Batch file
+  + ShellScript / Makefile / CMake / Batch file
   + Dear HTML / CSS / JavaScript (Website glue)
   + Matlab (Not very like to use...)
   + Superficial cognition for:
