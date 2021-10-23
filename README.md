@@ -1,5 +1,7 @@
 ![banner](img/lang.png)
 
+Made with [Krita](https://krita.org). (Copyright 2021-)
+
 # Experience
 
 + Engineering
