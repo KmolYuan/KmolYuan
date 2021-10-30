@@ -8,18 +8,20 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
   + Optimization Methods
   + Planar Mechanism
   + Computer Vision
-  + Mechine Learning
+  + Machine Learning
 + Programming Languages (Cross-platform)
-  + Rust (Currently focusing)
+  + Rust
   + Python (PyQt, PyTorch, Cython)
-  + C99^/C++11^ (Usually be the backend of my works)
+  + C99^/C++11^
   + ShellScript / Makefile / CMake / Batch file
-  + Dear HTML / CSS / JavaScript (Website glue)
-  + Matlab (Not very like to use...)
-  + Superficial cognition for:
+  + Dear HTML / CSS / JavaScript
+  + Matlab
+  + Beginning:
+    + Go
     + Fortran
+    + JVM (Kotlin and Java)
+    + dotNet (C-sharp)
     + Haskell
-    + Other C language family (including JVM, dotNet, etc.)
 
 # Dashboard
 
