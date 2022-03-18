@@ -17,6 +17,8 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
   + Dear HTML / CSS / JavaScript
   + Matlab
   + Beginning: Go, Fortran, JVM (Kotlin and Java), dotNet (C-sharp), Haskell
++ Software Translation (en-US, zh-TW)
+  + [0 A.D.](https://www.transifex.com/wildfire-games/0ad/dashboard/)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KmolYuan&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KmolYuan&theme=github)
