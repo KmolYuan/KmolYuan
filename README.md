@@ -15,7 +15,7 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
   + [Pyslvs-UI](https://github.com/KmolYuan/Pyslvs-UI):
     Planar linkage mechanism simulation and mechanical synthesis system.
     + type: GUI, kernel selectable (main library: [pyslvs](https://github.com/KmolYuan/pyslvs))
-    + techniques: Python, Cython, C++
+    + techniques: Python (PyQt), Cython, C++
   + [Python-Solvespace](https://github.com/KmolYuan/solvespace):
     Python wrapper for the kernel of Solvespace, which is a CAD software.
     + type: Wrapper, library
@@ -35,11 +35,11 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
   + [reveal-yaml](https://github.com/KmolYuan/reveal-yaml-rs):
     Create a Reveal.js presentation simply via a YAML file and some local resources. (**CLI**)
     + type: CLI, remade from Python
-    + techniques: Rust, JavaScript (jQuery), CSS, HTML
+    + techniques: Rust (Actix), JavaScript (jQuery), CSS, HTML
   + [four-bar](https://github.com/KmolYuan/four-bar-rs):
     Planar four-bar linkage mechanism simulation and mechanical synthesis system.
     + type: Native GUI, WebAssembly GUI
-    + techniques: Rust, JavaScript
+    + techniques: Rust (Actix, egui, wasm-bindgen), JavaScript
 + Programming Languages (Cross-platforms)
   + Rust
   + Python (PyQt, PyTorch, Cython)
