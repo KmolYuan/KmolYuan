@@ -57,5 +57,3 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KmolYuan&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KmolYuan&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KmolYuan&theme=github)
-
-![](https://github-readme-stats.vercel.app/api/wakatime?username=KmolYuan&langs_count=6&layout=compact)
