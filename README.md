@@ -24,10 +24,6 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
     A Python API compiler for universal Markdown syntax.
     + type: CLI
     + techniques: Pure Python
-  + [metaheuristics-nature](https://github.com/KmolYuan/metaheuristics-nature-rs):
-    A collection of nature-inspired metaheuristic algorithms for benchmarking different optimization methods.
-    + type: Library
-    + techniques: Pure Rust
   + [yaml-peg](https://github.com/KmolYuan/yaml-peg-rs):
     A YAML 1.2 parser using a greedy parsing algorithm with PEG atoms.
     + type: Library
@@ -36,6 +32,14 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
     Create a Reveal.js presentation simply via a YAML file and some local resources. (**CLI**)
     + type: CLI, remade from Python
     + techniques: Rust (Actix), JavaScript (jQuery), CSS, HTML
+  + [efd-rs](https://github.com/KmolYuan/efd-rs):
+    A light, highly generic library for Elliptical Fourier Descriptor (EFD).
+    + type: Library
+    + techniques: Pure Rust
+  + [metaheuristics-nature](https://github.com/KmolYuan/metaheuristics-nature-rs):
+    A collection of nature-inspired metaheuristic algorithms for benchmarking different optimization methods.
+    + type: Library
+    + techniques: Pure Rust
   + [four-bar](https://github.com/KmolYuan/four-bar-rs):
     Planar four-bar linkage mechanism simulation and mechanical synthesis system.
     + type: Native GUI, WebAssembly GUI
