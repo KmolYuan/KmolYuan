@@ -33,7 +33,7 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
     + type: CLI, remade from Python
     + techniques: Rust (Actix), JavaScript (jQuery), CSS, HTML
   + [efd-rs](https://github.com/KmolYuan/efd-rs):
-    A light, highly generic library for Elliptical Fourier Descriptor (EFD).
+    Elliptical Fourier Descriptor (EFD) implementation in Rust.
     + type: Library
     + techniques: Pure Rust
   + [metaheuristics-nature](https://github.com/KmolYuan/metaheuristics-nature-rs):
