@@ -11,7 +11,7 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
   + Machine Learning
 + Software Translation (en-US, zh-TW)
   + [0 A.D.](https://www.transifex.com/wildfire-games/0ad/dashboard/)
-+ Repositories
++ Repositories ([Gist](https://gist.github.com/KmolYuan))
   + [Pyslvs-UI](https://github.com/KmolYuan/Pyslvs-UI):
     Planar linkage mechanism simulation and mechanical synthesis system.
     + type: GUI, kernel selectable (main library: [pyslvs](https://github.com/KmolYuan/pyslvs))
