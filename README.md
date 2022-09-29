@@ -2,6 +2,12 @@
 
 Made with [Krita](https://krita.org). (Copyright 2021-)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KmolYuan&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KmolYuan&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KmolYuan&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KmolYuan&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KmolYuan&theme=github&utcOffset=8)
+
 ## Experience
 
 + Engineering
@@ -55,9 +61,3 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
   + Dear HTML / CSS / JavaScript
   + Matlab
   + Beginning: Go, Fortran, JVM (Kotlin and Java), dotNet (C-sharp), Haskell
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KmolYuan&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KmolYuan&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KmolYuan&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KmolYuan&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KmolYuan&theme=github&utcOffset=8)
