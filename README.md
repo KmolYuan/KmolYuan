@@ -38,7 +38,7 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
     Create a Reveal.js presentation simply via a YAML file and some local resources. (**CLI**)
     + type: CLI, remade from Python
     + techniques: Rust (Actix), JavaScript (jQuery), CSS, HTML
-  + [efd-rs](https://github.com/KmolYuan/efd-rs):
+  + [efd](https://github.com/KmolYuan/efd-rs):
     Elliptical Fourier Descriptor (EFD) implementation in Rust.
     + type: Library
     + techniques: Pure Rust
