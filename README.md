@@ -11,8 +11,8 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
 ## Experience
 
 ### Engineering
-+ Optimization Methods
-+ Planar Mechanism
++ Optimal Design
++ Linkage Mechanisms
 + Computer Vision
 + Machine Learning
 
