@@ -50,7 +50,7 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
   + techniques: Pure Rust
 + [four-bar](https://github.com/KmolYuan/four-bar-rs):
   Planar four-bar linkage mechanism simulation and mechanical synthesis system.
-  + type: Native GUI, WebAssembly GUI
+  + type: GUI, WebAssembly GUI
   + techniques: Rust (Actix, egui, wasm-bindgen), JavaScript
 + [latex-paper](https://github.com/KmolYuan/latex-paper): LaTex template for National Taiwan University Thesis.
   + type: Template
