@@ -66,5 +66,6 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
 + Beginning: Go, Fortran, JVM (Kotlin and Java), dotNet (C-sharp), Haskell
 
 ### Research Published
++ 2024, [Atlas-Based Path Synthesis of Planar Four-Bar Linkages Using Elliptical Fourier Descriptors](https://doi.org/10.1007/978-3-031-45709-8_20)
 + 2022, [A generative model for path synthesis of four-bar linkages via uniform sampling dataset](https://doi.org/10.1177/09544062221123700)
 + 2021, [Design of a monolithic constant-force compliant mechanism for extended motion minimal force variation](https://doi.org/10.1115/DETC2021-69726)
