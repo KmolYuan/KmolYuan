@@ -56,14 +56,16 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
   + type: Template
   + techniques: ShellScript, LaTex (pandoc CLI)
 
-### Programming Languages (Cross-platforms)
+### Programming Languages
 + Rust
 + Python (PyQt, PyTorch, Cython)
 + C99^/C++11^
 + ShellScript / Makefile / CMake / Batch file
-+ Dear HTML / CSS / JavaScript
 + Matlab
-+ Beginning: Go, Fortran, JVM (Kotlin and Java), dotNet (C-sharp), Haskell
++ JavaScript / TypeScript (HTML / CSS)
++ OCaml
+
+Work platform: Kubuntu / Windows
 
 ### Research Published
 + 2024, [Atlas-Based Path Synthesis of Planar Four-Bar Linkages Using Elliptical Fourier Descriptors](https://doi.org/10.1007/978-3-031-45709-8_20)
