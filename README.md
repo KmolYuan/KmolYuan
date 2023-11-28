@@ -19,13 +19,29 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
 ### Software Translation (en-US, zh-TW)
 + [0 A.D.](https://www.transifex.com/wildfire-games/0ad/dashboard/)
 
-### Repositories ([Gist](https://gist.github.com/KmolYuan))
+### Repositories
++ [four-bar](https://github.com/KmolYuan/four-bar-rs):
+  Planar four-bar linkage mechanism simulation and mechanical synthesis system.
+  + type: GUI, WebAssembly GUI
+  + techniques: Rust (Actix, egui, wasm-bindgen), JavaScript
++ [efd](https://github.com/KmolYuan/efd-rs):
+  Elliptical Fourier Descriptor (EFD) implementation in Rust.
+  + type: Library
+  + techniques: Pure Rust
++ [metaheuristics-nature](https://github.com/KmolYuan/metaheuristics-nature-rs):
+  A collection of nature-inspired metaheuristic algorithms for benchmarking different optimization methods.
+  + type: Library
+  + techniques: Pure Rust
++ [reveal-yaml](https://github.com/KmolYuan/reveal-yaml-rs):
+  Create a Reveal.js presentation simply via a YAML file and some local resources. (**CLI**)
+  + type: CLI, remade from Python
+  + techniques: Rust (Actix), JavaScript (jQuery), CSS, HTML
 + [Pyslvs-UI](https://github.com/KmolYuan/Pyslvs-UI):
   Planar linkage mechanism simulation and mechanical synthesis system.
   + type: GUI, kernel selectable (main library: [pyslvs](https://github.com/KmolYuan/pyslvs))
   + techniques: Python (PyQt), Cython, C++
 + [Python-Solvespace](https://github.com/KmolYuan/solvespace):
-  Python wrapper for the kernel of Solvespace, which is a CAD software.
+  Python wrapper for the kernel of Solvespace, which is CAD software.
   + type: Wrapper, library
   + techniques: Python, Cython
 + [apimd](https://github.com/KmolYuan/apimd):
@@ -36,25 +52,10 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
   A YAML 1.2 parser using a greedy parsing algorithm with PEG atoms.
   + type: Library
   + techniques: Pure Rust
-+ [reveal-yaml](https://github.com/KmolYuan/reveal-yaml-rs):
-  Create a Reveal.js presentation simply via a YAML file and some local resources. (**CLI**)
-  + type: CLI, remade from Python
-  + techniques: Rust (Actix), JavaScript (jQuery), CSS, HTML
-+ [efd](https://github.com/KmolYuan/efd-rs):
-  Elliptical Fourier Descriptor (EFD) implementation in Rust.
-  + type: Library
-  + techniques: Pure Rust
-+ [metaheuristics-nature](https://github.com/KmolYuan/metaheuristics-nature-rs):
-  A collection of nature-inspired metaheuristic algorithms for benchmarking different optimization methods.
-  + type: Library
-  + techniques: Pure Rust
-+ [four-bar](https://github.com/KmolYuan/four-bar-rs):
-  Planar four-bar linkage mechanism simulation and mechanical synthesis system.
-  + type: GUI, WebAssembly GUI
-  + techniques: Rust (Actix, egui, wasm-bindgen), JavaScript
 + [latex-paper](https://github.com/KmolYuan/latex-paper): LaTex template for National Taiwan University Thesis.
   + type: Template
   + techniques: ShellScript, LaTex (pandoc CLI)
++ [My Gists](https://gist.github.com/KmolYuan)
 
 ### Programming Languages
 + Rust
