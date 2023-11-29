@@ -16,8 +16,8 @@ Made with [Krita](https://krita.org). (Copyright 2021-)
 + Computer Vision
 + Machine Learning
 
-### Software Translation (en-US, zh-TW)
-+ [0 A.D.](https://www.transifex.com/wildfire-games/0ad/dashboard/)
+### Software Translation
++ Game [0 A.D.](https://www.transifex.com/wildfire-games/0ad/dashboard/) (en-US → zh-TW)
 
 ### Repositories
 + [four-bar](https://github.com/KmolYuan/four-bar-rs):
